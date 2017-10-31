@@ -12,4 +12,3 @@ Plugins
 *.suo
 *.xcodeproj
 *.xcworkspace
-*_BuiltData.uasset
