@@ -1,9 +1,11 @@
 Binaries
 DerivedDataCache
 Intermediate
-Saved
+Output
 Plugins
+Saved
 .vs
+.vscode
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +14,4 @@ Plugins
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.log
